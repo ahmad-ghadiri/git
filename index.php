@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <header>header</header>
     <h1>Hi</h1>
     <footer>Copy Right 2022</footer>
 </body>
