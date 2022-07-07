@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hi</h1>
+    <footer>Copy Right 2022</footer>
 </body>
 </html>
